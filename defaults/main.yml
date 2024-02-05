@@ -1,4 +1,3 @@
-# Standards: 1.2
 ---
 # @var sops_version:description: Version of sops binary to install
 # renovate: datasource=github-releases depName=mozilla/sops
