@@ -1,6 +1,6 @@
 ---
 - name: Download sops release
-  get_url:
+  ansible.builtin.get_url:
     url: "{{ sops_download }}"
     dest: "{{ sops_path }}/sops"
     owner: root
