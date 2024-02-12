@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0](https://github.com/rolehippie/sops/compare/v1.1.1...v2.0.0) (2024-02-12)
+
+
+### Features
+
+* used full qualified collection names ([b37614d](https://github.com/rolehippie/sops/commit/b37614d86512549452a90290ca376d35f09da7a9))
+
 ## [1.1.1](https://github.com/rolehippie/sops/compare/v1.1.0...v1.1.1) (2023-10-16)
 
 
