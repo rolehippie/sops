@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.4](https://github.com/rolehippie/sops/compare/v2.1.3...v2.1.4) (2025-01-27)
+
+
+### Bugfixes
+
+* **deps:** update dependency mozilla/sops to v3.9.4 ([#25](https://github.com/rolehippie/sops/issues/25)) ([309fc1c](https://github.com/rolehippie/sops/commit/309fc1c2c7a5516ec76723b0f58a69bfa09e6299))
+
 ## [2.1.3](https://github.com/rolehippie/sops/compare/v2.1.2...v2.1.3) (2025-01-06)
 
 
