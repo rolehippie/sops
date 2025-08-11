@@ -1,4 +1,4 @@
-# sops
+# workspace
 
 [![Source Code](https://img.shields.io/badge/github-source%20code-blue?logo=github&logoColor=white)](https://github.com/rolehippie/sops)
 [![General Workflow](https://github.com/rolehippie/sops/actions/workflows/general.yml/badge.svg)](https://github.com/rolehippie/sops/actions/workflows/general.yml)
@@ -51,8 +51,8 @@ URL to download sops binary from
 #### Default value
 
 ```YAML
-sops_download: https://github.com/mozilla/sops/releases/download/v{{ sops_version
-  }}/sops-v{{ sops_version }}.linux.{{ sops_arch }}
+sops_download: https://github.com/mozilla/sops/releases/download/v{{ 
+  sops_version }}/sops-v{{ sops_version }}.linux.{{ sops_arch }}
 ```
 
 ### sops_path
@@ -78,7 +78,6 @@ sops_version: 3.10.2
 ## Discovered Tags
 
 **_sops_**
-
 
 ## Dependencies
 
