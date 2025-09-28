@@ -72,7 +72,7 @@ Version of sops binary to install
 #### Default value
 
 ```YAML
-sops_version: 3.10.2
+sops_version: 3.11.0
 ```
 
 ## Discovered Tags
