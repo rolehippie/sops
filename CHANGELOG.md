@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.0](https://github.com/rolehippie/sops/compare/v2.3.0...v2.4.0) (2025-09-29)
+
+
+### Features
+
+* apply new repo structure and update linting and integrate noble ([0e14603](https://github.com/rolehippie/sops/commit/0e146032a8a87d826b68a8c6cdd78d290a74221a))
+
 ## [2.3.0](https://github.com/rolehippie/sops/compare/v2.2.2...v2.3.0) (2025-09-29)
 
 
