@@ -1,7 +1,7 @@
 ---
 # @var sops_version:description: Version of sops binary to install
 # renovate: datasource=github-releases depName=mozilla/sops
-sops_version: 3.11.0
+sops_version: 3.12.1
 
 # @var sops_arch:description: Architecture for sops binary
 sops_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' or ansible_architecture == 'arm64' else 'amd64' }}"
