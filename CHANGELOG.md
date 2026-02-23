@@ -1,5 +1,36 @@
 # Changelog
 
+## [2.5.0](https://github.com/rolehippie/sops/compare/v2.4.0...v2.5.0) (2026-02-23)
+
+### Dependencies
+
+* **minor:** update dependency mozilla/sops to v3.12.1 ([#54](https://github.com/rolehippie/sops/issues/54)) ([39199a8](https://github.com/rolehippie/sops/commit/39199a84e4eaf09aebceebf8a45507b6f912db45))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([9af426b](https://github.com/rolehippie/sops/commit/9af426bb9ac7d7d162514edcaba0803331b590db))
+* **flake:** updated lockfile [skip ci] ([bc3b5d1](https://github.com/rolehippie/sops/commit/bc3b5d1a515d4e54c89aa7585a3ace3acab17b72))
+* **flake:** updated lockfile [skip ci] ([b2d852a](https://github.com/rolehippie/sops/commit/b2d852ae5bce47f5588383b55008433845c59bde))
+* **flake:** updated lockfile [skip ci] ([1d68cf3](https://github.com/rolehippie/sops/commit/1d68cf339e1a891d430a63c207a2a87aa457584d))
+* **flake:** updated lockfile [skip ci] ([f6a9a5d](https://github.com/rolehippie/sops/commit/f6a9a5dbf77e9359bc4d0a2ba0988d1f80c00bf9))
+* **flake:** updated lockfile [skip ci] ([a04db39](https://github.com/rolehippie/sops/commit/a04db39c0cdc5bf6f7186a92028d31bde660cc5c))
+* **flake:** updated lockfile [skip ci] ([1a3934f](https://github.com/rolehippie/sops/commit/1a3934f5f9824d208d3c9e9419288426c2fd6444))
+* **flake:** updated lockfile [skip ci] ([29894a8](https://github.com/rolehippie/sops/commit/29894a8bf3e68df62aeb555705964f7e2ac142a7))
+* **flake:** updated lockfile [skip ci] ([4af6faf](https://github.com/rolehippie/sops/commit/4af6faf0698471fc16b7bd23cc3ed6d88a71b78f))
+* **flake:** updated lockfile [skip ci] ([be20e80](https://github.com/rolehippie/sops/commit/be20e8059ed1884f8288014cbaf301d5b4a14e66))
+* **flake:** updated lockfile [skip ci] ([263a9af](https://github.com/rolehippie/sops/commit/263a9af024bde0c91ffd537967b775d2d785abe5))
+* **flake:** updated lockfile [skip ci] ([c57078e](https://github.com/rolehippie/sops/commit/c57078e6ace390cd299c1f7528cec4a789a87ace))
+* **flake:** updated lockfile [skip ci] ([d46a7f5](https://github.com/rolehippie/sops/commit/d46a7f5bd8b39ef539ad8c3766e4d06cd00ab9f7))
+* **flake:** updated lockfile [skip ci] ([01d2c8c](https://github.com/rolehippie/sops/commit/01d2c8c47ba1f0a5e72339234751986e4bb028a2))
+* **flake:** updated lockfile [skip ci] ([ea72e1c](https://github.com/rolehippie/sops/commit/ea72e1cfc9faad8826c0e8e8d5d1603c4c3d3be9))
+* **flake:** updated lockfile [skip ci] ([9e554a8](https://github.com/rolehippie/sops/commit/9e554a8c45c021bfaa5c5d4ce930fadc37966dde))
+* **flake:** updated lockfile [skip ci] ([21794fd](https://github.com/rolehippie/sops/commit/21794fd9469dc9d73838d38ebb718cbc3ff8575e))
+* **flake:** updated lockfile [skip ci] ([17be807](https://github.com/rolehippie/sops/commit/17be807819833231d105d58738613c9735af8ad9))
+* **flake:** updated lockfile [skip ci] ([774e5af](https://github.com/rolehippie/sops/commit/774e5affdeee3995d8274cf9bb071f60644dedf1))
+* **flake:** updated lockfile [skip ci] ([2bee041](https://github.com/rolehippie/sops/commit/2bee04142fb715eb05c347f250797f2695549b3b))
+* **flake:** updated lockfile [skip ci] ([0eafc2d](https://github.com/rolehippie/sops/commit/0eafc2defa0dca664c57deeae88cd93a947a2c55))
+* install cron by default part of molecule ([9b3b641](https://github.com/rolehippie/sops/commit/9b3b64142285339f669528cda14fb0398687bd0b))
+
 ## [2.4.0](https://github.com/rolehippie/sops/compare/v2.3.0...v2.4.0) (2025-09-29)
 
 
