@@ -41,8 +41,7 @@ Architecture for sops binary
 #### Default value
 
 ```YAML
-sops_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' or ansible_architecture
-  == 'arm64' else 'amd64' }}"
+sops_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' or ansible_architecture == 'arm64' else 'amd64' }}"
 ```
 
 ### sops_download
@@ -52,8 +51,7 @@ URL to download sops binary from
 #### Default value
 
 ```YAML
-sops_download: https://github.com/mozilla/sops/releases/download/v{{ 
-  sops_version }}/sops-v{{ sops_version }}.linux.{{ sops_arch }}
+sops_download: https://github.com/mozilla/sops/releases/download/v{{ sops_version }}/sops-v{{ sops_version }}.linux.{{ sops_arch }}
 ```
 
 ### sops_path
