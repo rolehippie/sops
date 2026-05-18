@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.6.1](https://github.com/rolehippie/sops/compare/v2.6.0...v2.6.1) (2026-05-18)
+
+### Dependencies
+
+* **patch:** update dependency mozilla/sops to v3.13.1 ([#60](https://github.com/rolehippie/sops/issues/60)) ([3d7f7bc](https://github.com/rolehippie/sops/commit/3d7f7bc6285d7e96be997afdf281aa2165af38be))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([4b9205f](https://github.com/rolehippie/sops/commit/4b9205f70b27a5589763b63b47eb469882d97ff4))
+
 ## [2.6.0](https://github.com/rolehippie/sops/compare/v2.5.1...v2.6.0) (2026-05-11)
 
 ### Dependencies
