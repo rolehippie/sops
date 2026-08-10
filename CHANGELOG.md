@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.8.0](https://github.com/rolehippie/sops/compare/v2.7.0...v2.8.0) (2026-08-10)
+
+### Dependencies
+
+* **minor:** update dependency pipx:ansible-doctor to v8.4.0 ([#68](https://github.com/rolehippie/sops/issues/68)) ([f35921c](https://github.com/rolehippie/sops/commit/f35921c3d8550243f7ab72b59f867e65a90e3da9))
+* **patch:** update dependency python to v3.14.7 ([#66](https://github.com/rolehippie/sops/issues/66)) ([7b854a7](https://github.com/rolehippie/sops/commit/7b854a76b6e82ebd35a0f304cc3451f3f8444f06))
+
 ## [2.7.0](https://github.com/rolehippie/sops/compare/v2.6.2...v2.7.0) (2026-07-27)
 
 ## [2.6.2](https://github.com/rolehippie/sops/compare/v2.6.1...v2.6.2) (2026-07-06)
