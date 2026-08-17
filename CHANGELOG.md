@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.9.0](https://github.com/rolehippie/sops/compare/v2.8.0...v2.9.0) (2026-08-17)
+
+### Dependencies
+
+* **minor:** update dependency pipx:ansible-lint to v26.8.0 ([#71](https://github.com/rolehippie/sops/issues/71)) ([7f33407](https://github.com/rolehippie/sops/commit/7f33407071e591e2562840f82432a2e17872d129))
+* **patch:** update dependency pipx:ansible-core to v2.21.3 ([#69](https://github.com/rolehippie/sops/issues/69)) ([c1e14c4](https://github.com/rolehippie/sops/commit/c1e14c40d60df721f6c2e8c9e7823c7ce88ae7d6))
+* **patch:** update dependency pre-commit to v4.6.2 ([#70](https://github.com/rolehippie/sops/issues/70)) ([3c8b092](https://github.com/rolehippie/sops/commit/3c8b092cd4760ed82dd9583b20d69bd5a98d6c43))
+
 ## [2.8.0](https://github.com/rolehippie/sops/compare/v2.7.0...v2.8.0) (2026-08-10)
 
 ### Dependencies
