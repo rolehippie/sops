@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.10.0](https://github.com/rolehippie/sops/compare/v2.9.0...v2.10.0) (2026-08-24)
+
+### Dependencies
+
+* **minor:** update dependency pipx:molecule to v26.8.0 ([#72](https://github.com/rolehippie/sops/issues/72)) ([72f3779](https://github.com/rolehippie/sops/commit/72f3779ffce25bab9ecf4535e31a4ae84742c03a))
+
 ## [2.9.0](https://github.com/rolehippie/sops/compare/v2.8.0...v2.9.0) (2026-08-17)
 
 ### Dependencies
