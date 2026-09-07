@@ -4,7 +4,7 @@
 sops_version: 3.13.3
 
 # @var sops_arch:description: Architecture for sops binary
-sops_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' or ansible_architecture == 'arm64' else 'amd64' }}"
+sops_arch: "{{ 'arm64' if ansible_facts['architecture'] in ['aarch64', 'arm64'] else 'amd64' }}"
 
 # @var sops_download:description: URL to download sops binary from
 sops_download: "https://github.com/mozilla/sops/releases/download/v{{ sops_version }}/sops-v{{ sops_version }}.linux.{{ sops_arch }}"
