@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.11.0](https://github.com/rolehippie/sops/compare/v2.10.1...v2.11.0) (2026-09-07)
+
+### Features
+
+* add separate requirements for molecule run ([007bc21](https://github.com/rolehippie/sops/commit/007bc219c71f6ceb22fdbb6331bf7b8ed7f51644))
+* use new required facts as attributes ([a11a8c9](https://github.com/rolehippie/sops/commit/a11a8c99373154bdca61bcf9b51b4d593c7a077e))
+
 ## [2.10.1](https://github.com/rolehippie/sops/compare/v2.10.0...v2.10.1) (2026-08-31)
 
 ### Dependencies
